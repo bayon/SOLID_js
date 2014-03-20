@@ -2,8 +2,7 @@
 
 ?>
 <script>
-		/* L E F T   O F F   H E R E   trying to see if I can send a parameter to one of these interface methods.YES ! */
-
+	
 	/* /////////////////////  INTERFACE //////////////////////////// */
 	alert("js: DIP INTERFACE");
 
